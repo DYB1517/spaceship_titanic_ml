@@ -46,8 +46,3 @@ The project is divided into logical development stages:
    ```
 
 3. Navigate to any module folder and run the Python scripts or Jupyter notebooks to explore the workflow.
-
-## Results and Key Findings
-
-*   Extensive feature engineering, including parsing cabin locations and grouping expenses, significantly boosted model accuracy compared to the raw baseline.
-*   The final optimized ensemble model achieved competitive performance on the validation set.
